@@ -1,8 +1,11 @@
 # Hi there, I'm Kump3r 👋
 
 🚀 **DevOps Engineer** from Sofia, Bulgaria 🇧🇬
+
 🔧 Specializing in **Python, Bash, Kubernetes, Docker and all things DevOps**  
+
 🔄 Passionate about automating workflows, optimizing CI/CD pipelines, and making life easier with code
+
 👨‍🎓 Learning and practising **GoLang**, trough contributions in [Concourse](https://github.com/concourse/concourse)
 
 ---
@@ -16,7 +19,7 @@
 
 ## 🌟 Featured Project
 
-[Concourse](https://github.com/concourse/concourse)  
+[Concourse](https://github.com/concourse/concourse) - Concourse is a pipeline-based continuous thing-doer.
 > A powerful CI/CD system that’s all about automation and scalability. Check it out!
 
 ---
@@ -27,8 +30,11 @@ I’m passionate about automating/scripting stuff, building seamless CI/CD pipel
 
 ---
 
+## ⚡ Fun fact
 
+The first computer "bug" 🐛 was literally a bug – a moth that was trapped in a relay on a Harvard University computer. This event led to the term "debugging" being used to describe the process of finding and fixing errors in computer programs
 
+---
 <!--
 **Kump3r/Kump3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,5 +47,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  ...
 -->
