@@ -1,6 +1,6 @@
 # Hi there, I'm Kump3r 👋
 
-🚀 **DevOps Engineer** from Sofia, Bulgaria  
+🚀 **DevOps Engineer** from Sofia, Bulgaria 🇧🇬
 🔧 Specializing in **Python, Bash, Kubernetes, Docker and all things DevOps**  
 🔄 Passionate about automating workflows, optimizing CI/CD pipelines, and making life easier with code
 👨‍🎓 Learning and practising **GoLang**, trough contributions in [Concourse](https://github.com/concourse/concourse)
